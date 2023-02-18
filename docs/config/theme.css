@@ -1,0 +1,9 @@
+:root {
+    --primary: #00c4c4;
+    --primary-text: #ffffff;
+    --secondary: #00c4c4;
+    --secondary-text: #ffffff;
+    --accent: #262626;
+    --accent-text: #ffffff;
+    --button-shadow: rgba(0, 0, 0, 0.5);
+}
